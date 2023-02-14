@@ -1,5 +1,7 @@
 # vuejs/core [![npm](https://img.shields.io/npm/v/vue.svg)](https://www.npmjs.com/package/vue) [![build status](https://github.com/vuejs/core/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vuejs/core/actions/workflows/ci.yml)
 
+HELLO!
+
 ## Getting Started
 
 Please follow the documentation at [vuejs.org](https://vuejs.org/)!
